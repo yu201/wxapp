@@ -1,0 +1,3 @@
+<!--detail/index.wxml-->
+<header background-color="#000" color="#fff" fixed back="{{true}}">首页</header>
+<text>detail/index.wxml</text>
